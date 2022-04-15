@@ -1,4 +1,4 @@
 # Google-Page
-This contact form I prepared was created to create an example, by making changes on this example, different contact forms can be created.
-[Click here](https://muazv.github.io/Contact-Form/)
-![](https://github.com/MuazV/Contact-Form/blob/master/img/Preview.jpg)
+I tried to emulate the Google sheet. The fonts were not fully set, but an almost similar picture emerged.
+[Click here](https://muazv.github.io/Google-Page/)
+![](https://github.com/MuazV/Contact-Form/blob/master/img/Previ)
